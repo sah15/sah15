@@ -1,0 +1,3 @@
+- 👋 Olá! Eu sou Sabrina
+- 👀 Sou aluna da rede plública do Paraná
+- 🌱 atualmente estou no curso de pensamento computacional
